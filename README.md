@@ -102,3 +102,11 @@ Implemented a **2-year sales forecast** using Power BI analytics tools to identi
 ### HR Dashboard
 ![HR Dashboard](images/hr-dashboard.png)
 *Insights into employee distribution, satisfaction, and workforce metrics.*
+
+
+## How to Use
+1. Download the `.pbix` file from this repository  
+2. Open it using Power BI Desktop  
+3. Use filters and slicers to explore different insights  
+
+Tip: Interact with visuals to drill down into specific data points.
