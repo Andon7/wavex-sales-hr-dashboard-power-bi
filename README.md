@@ -25,10 +25,7 @@ WaveX Watercraft required insights into:
 ---
 
 ## Dataset
-The project uses multiple data sources:
-- Sales data (Text file)  
-- Company data (Excel)  
-- Distributor data (PDF)  
+Data used in this project is available in the `/data` folder. 
 
 ---
 
