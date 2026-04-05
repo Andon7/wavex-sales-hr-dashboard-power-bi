@@ -107,7 +107,7 @@ Implemented a **2-year sales forecast** using Power BI analytics tools to identi
 
 
 ## How to Use
-1. Download the `.pbix` file from this repository  
+1. Download the `wavex-sales-hr-dashboard.pbix` file from this repository  
 2. Open it using Power BI Desktop  
 3. Use filters and slicers to explore different insights  
 
