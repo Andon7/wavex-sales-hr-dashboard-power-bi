@@ -30,7 +30,7 @@ The project uses multiple data sources:
 - Company data (Excel)  
 - Distributor data (PDF)  
 
-*Data used in this project is available in the `/data` folder. 
+> Data used in this project is available in the `/data` folder.
 
 ---
 
@@ -95,16 +95,19 @@ Created key performance indicators such as:
 ## Forecasting
 Implemented a **2-year sales forecast** using Power BI analytics tools to identify future trends and support planning decisions.
 
+---
+
 ## Dashboard Preview
 
 ### Sales Dashboard
-![Sales Dashboard](images/sales-dashboard.png)
+![Sales Dashboard](images/sales-dashboard.png)  
 *Overview of sales performance, KPIs, and forecast trends.*
 
 ### HR Dashboard
-![HR Dashboard](images/hr-dashboard.png)
+![HR Dashboard](images/hr-dashboard.png)  
 *Insights into employee distribution, satisfaction, and workforce metrics.*
 
+---
 
 ## How to Use
 1. Download the `wavex-sales-hr-dashboard.pbix` file from this repository  
@@ -112,3 +115,23 @@ Implemented a **2-year sales forecast** using Power BI analytics tools to identi
 3. Use filters and slicers to explore different insights  
 
 Tip: Interact with visuals to drill down into specific data points.
+
+---
+
+## Key Insights
+- Identified top-performing product categories  
+- Analyzed regional sales distribution  
+- Evaluated employee satisfaction trends  
+- Generated insights to support business and HR strategy  
+
+---
+
+## What I Learned
+- End-to-end Power BI workflow (ETL → Modeling → Visualization)  
+- Writing DAX measures and calculated columns  
+- Designing interactive dashboards  
+- Applying business logic to real-world scenarios  
+
+---
+
+> Note: This project is based on a guided course project and adapted for portfolio purposes.
